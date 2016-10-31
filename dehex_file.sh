@@ -2,7 +2,7 @@
 
 ########################################################################
 #
-# Replace all the hex codes in the file to ascii values
+#  Replace all the hex codes in the file to ascii values
 # Example: \x3c  -->  <
 #          \x3e  -->  >
 #
