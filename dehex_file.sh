@@ -12,6 +12,7 @@
 input_file=$1
 path="$(dirname $input_file)"
 
+
 sed '
 s/\\x3c/</g
 s/\\x3e/>/g
