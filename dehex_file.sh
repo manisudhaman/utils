@@ -23,4 +23,5 @@ s/\\t/	/g
 s/\\n/ \
 /g' < $input_file | sed "s/\\x27/'/g" > $path/temp.txt
 
+
 mv $path/temp.txt $input_file
